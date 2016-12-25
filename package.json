@@ -1,16 +1,16 @@
 {
-  "name": "jstransformer-markdown-it",
-  "version": "2.0.0",
-  "description": "markdown-it support for JSTransformers.",
+  "name": "jstransformer-marky-markdown",
+  "version": "0.0.1",
+  "description": "marky-markdown support for JSTransformers.",
   "keywords": [
     "jstransformer",
-    "markdown-it"
+    "marky-markdown"
   ],
   "files": [
     "index.js"
   ],
   "dependencies": {
-    "markdown-it": "^8.0.0"
+    "marky-markdown": "^9.0.1"
   },
   "devDependencies": {
     "markdown-it-container": "^2.0.0",
@@ -28,11 +28,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jstransformers/jstransformer-markdown-it.git"
+    "url": "https://github.com/cspotcode/jstransformer-marky-markdown.git"
   },
   "author": {
-    "name": "JSTransformers Team",
-    "url": "http://github.com/orgs/jstransformers/people"
+    "name": "Andrew Bradley",
+    "email": "cspotcode@gmail.com",
+    "url": "https://cspotcode.com"
   },
   "license": "MIT"
 }

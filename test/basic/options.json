@@ -1,1 +1,4 @@
-{}
+{
+  "enableHeadingLinkIcons": false,
+  "prefixHeadingIds": false
+}
